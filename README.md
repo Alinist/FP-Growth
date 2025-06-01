@@ -16,8 +16,6 @@ This project provides a C++ implementation of the **FP-Growth algorithm** for mi
 * [Input Data Format](#input-data-format)
 * [Output Explanation](#output-explanation)
 * [Team Members](#team-members)
-* [Contributing](#contributing)
-* [License](#license)
 
 ---
 
@@ -134,9 +132,9 @@ The program will output the following in the console:
 
 | Name                    | GitHub Profile                      |
 | :---------------------- | :---------------------------------- |
-| Ali Ashraf Ibrahim Said | [Link to Member 1's GitHub Profile] |
-| Arsany Adel             | [Link to Member 2's GitHub Profile] |
-| Omar Amgad              | [Link to Member 3's GitHub Profile] |
-| [Member 4 Name]         | [Link to Member 4's GitHub Profile] |
-| [Member 5 Name]         | [Link to Member 5's GitHub Profile] |
-| [Member 6 Name]         | [Link to Member 6's GitHub Profile] |
+| Ali Ashraf Ibrahim Said | https://github.com/Alinist |
+| Arsany Adel             | https://github.com/arsany-adel |
+| Omar Amgad Ahmad Saaid          | https://github.com/OmarAmgad220 |
+| Ali Amgad Ahmad Saaid         | https://github.com/aliamgad |
+| Hossam Ahmad Mohamed Tag El Deen         | https://github.com/hosahmed |
+| Ahmad Ibrahim Mohamed Fathy        | https://github.com/AhmadIbrahim2004 |
