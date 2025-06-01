@@ -1,4 +1,4 @@
-# FP-Growth Algorithm Implementation
+# FP-Growth Algorithm
 
 This project provides a C++ implementation of the **FP-Growth algorithm** for mining frequent itemsets and generating association rules from transactional data. It also calculates the lift for strong association rules to determine the correlation between itemsets.
 
